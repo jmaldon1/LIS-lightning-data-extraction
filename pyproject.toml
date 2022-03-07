@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "collect_nasa_lis_data"
+name = "lis-lightning-data-extraction"
 version = "0.1.0"
 description = ""
 authors = ["Joshua Maldonado <joshjm9915@gmail.com>"]
